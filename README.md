@@ -1,6 +1,6 @@
 # MarvelVsDC
 
-[M Vs DC] (maxresdefault.jpg)
+![M Vs DC](maxresdefault.jpg)
 
 ## About:
 This repository contains a Tableau dashboard comparing the characteristics and attributes of Marvel and DC superheroes. The dashboard is built using the 'heros' dataset and offers an interactive visualization of various hero statistics, including strength, speed, intelligence, and more. Explore the data, compare heroes from both universes, and gain insights into the similarities and differences between Marvel and DC characters.
