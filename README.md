@@ -19,3 +19,6 @@ Here's how I approached the missing data issue: 💪
 **4️⃣ Data Validation:** After imputing the missing values, it was crucial to validate the integrity and reliability of the data. I cross-referenced the imputed values with the original dataset, ensuring accuracy and consistency.
 
 **5️⃣ Tableau Dashboard Creation:** With the missing data handled, I dove into the exciting realm of Tableau. Leveraging its user-friendly interface and powerful visualization capabilities, I crafted an engaging and visually appealing Marvel vs. D.C. Stats dashboard. It encapsulates the essence of the superhero rivalry, presenting an array of captivating charts, graphs, and visualizations.
+
+
+**Result:** [Link to the Dashboard](https://public.tableau.com/app/profile/maruthi.sai.phani.teja.chadalapaka/viz/SuperHeros_16869435284630/Dashboard1)
